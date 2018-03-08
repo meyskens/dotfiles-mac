@@ -1,1 +1,11 @@
-/Users/maartje/Library/Application Support/Code/User/settings.json
+{
+    "terminal.integrated.fontFamily": "Meslo LG M for Powerline",
+    "workbench.colorTheme": "Default Light+",
+    "terminal.integrated.shell.osx": "/usr/local/bin/zsh",
+    "workbench.colorCustomizations" : {
+        "terminal.foreground" : "#cbcdcd",
+        "terminal.background" : "#002833"
+    },
+    "git.autofetch": true,
+    "git.confirmSync": false
+}
