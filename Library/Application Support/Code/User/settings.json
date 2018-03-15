@@ -7,5 +7,14 @@
         "terminal.background" : "#002833"
     },
     "git.autofetch": true,
-    "git.confirmSync": false
+    "git.confirmSync": false,
+    "cSpell.userWords": [
+        "Kubernetes",
+        "SPDY",
+        "gocardless",
+        "kube",
+        "pflag",
+        "repo"
+    ],
+    "go.useLanguageServer": true
 }
