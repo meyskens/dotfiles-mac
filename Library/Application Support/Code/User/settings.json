@@ -26,4 +26,13 @@
         "kedge": "globPattern"
     },
     "yaml.format.enable": true,
+    "ruby.lint": {
+        "reek": false,
+        "rubocop": true,
+        "ruby": false, //Runs ruby -wc
+        "fasterer": false,
+        "debride": false,
+        "ruby-lint": false
+    },
+    "files.insertFinalNewline": true
 }
