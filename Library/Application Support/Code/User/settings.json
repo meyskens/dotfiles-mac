@@ -9,6 +9,7 @@
     "git.autofetch": true,
     "git.confirmSync": false,
     "cSpell.userWords": [
+        "Cloudflare",
         "Kubernetes",
         "SPDY",
         "expensify",
