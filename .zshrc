@@ -104,4 +104,6 @@ export PATH=$PATH:$HOME/go/bin
 source ~/.zsh.d/secrets
 source ~/.zsh.d/aliases
 
+(brew upgrade anu 1>/tmp/anuupgrade 2>&1 &)
+
 [ -f /usr/local/etc/profile.d/autojump.sh ] && . /usr/local/etc/profile.d/autojump.sh
